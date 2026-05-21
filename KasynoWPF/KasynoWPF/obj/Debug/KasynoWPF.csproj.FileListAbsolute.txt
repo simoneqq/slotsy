@@ -1,0 +1,14 @@
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.exe.config
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.exe
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.pdb
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.AssemblyReference.cache
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\App.g.cs
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF_MarkupCompile.cache
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\MainWindow.baml
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.g.resources
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.Properties.Resources.resources
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.GenerateResource.cache
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.CoreCompileInputs.cache
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.exe
+C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.pdb
