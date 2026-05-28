@@ -12,3 +12,17 @@ C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.Genera
 C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.CoreCompileInputs.cache
 C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.exe
 C:\Users\4tpe\source\repos\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.pdb
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.exe.config
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.exe
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\bin\Debug\KasynoWPF.pdb
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF_MarkupCompile.cache
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.g.resources
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.Properties.Resources.resources
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.exe
+C:\Users\Admin\Desktop\slotsy-main\slotsy-main\KasynoWPF\KasynoWPF\obj\Debug\KasynoWPF.pdb
